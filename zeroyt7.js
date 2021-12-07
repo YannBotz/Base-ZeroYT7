@@ -50,10 +50,10 @@ let pendaftar = JSON.parse(fs.readFileSync('./database/user.json'))
 
 //━━━━━━━━━━━━━━━[ SETTING ]━━━━━━━━━━━━━━━━━//
 
-owner = setting.OwnerNumber
-botname = setting.BotName
+owner = 19199166601
+botname = Yanz BoTzZ
 zerokey = setting.ZeroKey
-ownername = setting.OwnerName
+ownername = YanZ
 
 //━━━━━━━━━━━━━━━[ MODUL EXPORTS ]━━━━━━━━━━━━━━━━━//
 
@@ -381,8 +381,8 @@ switch (command) {
 Saya ${botname} Yg Siap Membantu Anda Dalam Kinerja Whatsapp Agar Mempermudah Seperti Membuat Sticker , Dll
 
 ╭─❒ 「 Bot Info 」 ❒
-├ Nama Bot : ${botname}
-├ Nama Owner : ${ownername}
+├ Nama Bot : ${Yanz BoTzZ}
+├ Nama Owner : ${YanZ}
 ├ Prefix : Multi Prefix
 ├ Nomor Owner : ${owner.split('@')[0]}
 ├ Runtime : ${runtime(process.uptime())}
@@ -440,8 +440,8 @@ timestamp = speed();
                   	teks =
 `┏━➤ *INFO BOT* 
 *┃┃* Creator Bot : Zero YT7
-*┃┃* Nama Owner : ${ownername}
-*┃┃* Nama Bot : ${botname}
+*┃┃* Nama Owner : ${YanZ}
+*┃┃* Nama Bot : ${Yanz BoTzZ}
 *┃┃* Prefix : Multi Prefix
 *┃┃* Total Pengguna : ${pendaftar.length}
 *┃┃* Runtime : ${runtime(process.uptime())}
