@@ -46,6 +46,11 @@
 - Owner name [Here](https://github.com/Zero-YT7/Base-ZeroYT7/blob/master/setting.json#L13)
 - Botname [Here](https://github.com/Zero-YT7/Base-ZeroYT7/blob/master/setting.json#L14)
 
+## ```github```
+
+-github.com
+
+
 ## ```DONASI```
 
 - [`SAWERIA`](https://saweria.co/ZeroYT7)
